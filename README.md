@@ -18,8 +18,6 @@ how to profile and build a game.
 |:------------:|:------------------:|:-----------:|
 | AgroTech |29.01.2024 - present| UE C++ developer in Agro Tech Avia (ООО "АгроТех Авиа"). Clear C++, STL, RPC, TCP, UDP, Unreal Framework, Chaos Vehicles.
 | X-City |16/07/2023 - 29.01.2024| UE developer in [WORX STUDIOS LLC](https://worxstudios.com/) |
-| Dialogue System |31/12/2022 - present| Development dialogue system with non-linear dialogue logic and cinematic camera and animations. [Repo GitHub](https://github.com/navys04/DialogueSystem) |
-| Quest System |31/12/2022 - present| Development quest-system with non-linear quest logic. [Repo GitHub](https://github.com/navys04/QuestSystem) |
 | Idle-Zoo |21/06/2023 - 15/07/2023| My work as unity hyper casual freelance developer. [Repo GitHub](https://github.com/navys04/Idle-Zoo) |
 | Merge-Trainer |26/05/2023 - 20/06/2023| My work as unity hyper casual freelance developer. [Repo GitHub](https://github.com/navys04/Merge-Trainer) |
 | ParkingUnity |18/05/2023 - 21/05/2023| My work as unity hyper casual freelance developer. [Repo GitHub](https://github.com/navys04/ParkingUnity) |
