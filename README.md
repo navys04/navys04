@@ -16,8 +16,9 @@ how to profile and build a game.
 ## List of game development projects
 | Project name | Development period | Description |
 |:------------:|:------------------:|:-----------:|
-| AgroTech |29.01.2024 - present| UE C++ developer in Agro Tech Avia (ООО "АгроТех Авиа"). Clear C++, STL, RPC, TCP, UDP, Unreal Framework, Chaos Vehicles.
-| X-City |16/07/2023 - 29.01.2024| UE developer in [WORX STUDIOS LLC](https://worxstudios.com/) |
+| StoryMode |17/09/2024 - present| UE C++ developer in [StoryMode](https://www.storymode.pro/). C++, Blueprints, World Partition, Profiling, Optimization.
+| AgroTech |29/01/2024 - 17/09/2024| UE C++ developer in [Agro Tech Avia (ООО "АгроТех Авиа")](https://agrotechsim.io/). Clear C++, STL, RPC, TCP, UDP, Unreal Framework, Chaos Vehicles.
+| X-City |16/07/2023 - 29/01/2024| UE developer in [WORX STUDIOS LLC](https://worxstudios.com/) |
 | Idle-Zoo |21/06/2023 - 15/07/2023| My work as unity hyper casual freelance developer. [Repo GitHub](https://github.com/navys04/Idle-Zoo) |
 
 ## List of PET-projects in С/C++
