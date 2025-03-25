@@ -19,10 +19,3 @@ how to profile and build a game.
 | StoryMode |17/09/2024 - present| UE C++ developer in [StoryMode](https://www.storymode.pro/). C++, Blueprints, World Partition, Profiling, Optimization.
 | AgroTech |29/01/2024 - 17/09/2024| UE C++ developer in [Agro Tech Avia (ООО "АгроТех Авиа")](https://agrotechsim.io/). Clear C++, STL, RPC, TCP, UDP, Unreal Framework, Chaos Vehicles.
 | X-City |16/07/2023 - 29/01/2024| UE developer in [WORX STUDIOS LLC](https://worxstudios.com/) |
-| Idle-Zoo |21/06/2023 - 15/07/2023| My work as unity hyper casual freelance developer. [Repo GitHub](https://github.com/navys04/Idle-Zoo) |
-
-## List of PET-projects in С/C++
-| Project name | Development period | Description |
-|:------------:|:------------------:|:-----------:|
-| MedCom: Origins | 01/01/2023 - present | Teamwork on the development of an FPS Extraction Shooter. My role is UE C++ Technical Director. |
-| Swordsman | 20/06/2021 - 12/05/2022 | Teamwork on the development of an action RPG. My role is UE C++ Technical Director and techical game designer. By this project i learned UE Architecture and got first experience. [Repo Azure](https://dev.azure.com/fgStudio/_git/SwordsmanRPG) |
