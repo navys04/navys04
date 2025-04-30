@@ -16,7 +16,7 @@ how to profile and build a game.
 ## List of game development projects
 | Project name | Development period | Description |
 |:------------:|:------------------:|:-----------:|
-| StoryMode |17/09/2024 - present| UE Developer in [Per Aspera Ad Astra](https://ad-astra-game.com). C++, Blueprints, FX configs, and etc.
+| Per Aspera Ad Astra |17/09/2024 - present| UE Developer in [Per Aspera Ad Astra](https://ad-astra-game.com). C++, Blueprints, FX configs, and etc.
 | StoryMode |17/09/2024 - 31|03|2025| UE C++ developer in [StoryMode](https://www.storymode.pro/). C++, Blueprints, World Partition, Profiling, Optimization. Gold Fever MMO-RPG Game.
 | AgroTech |29/01/2024 - 17/09/2024| UE C++ developer in [Agro Tech Avia (ООО "АгроТех Авиа")](https://agrotechsim.io/). Clear C++, STL, RPC, TCP, UDP, Unreal Framework, Chaos Vehicles.
 | X-City |16/07/2023 - 29/01/2024| UE developer in [WORX STUDIOS LLC](https://worxstudios.com/) |
